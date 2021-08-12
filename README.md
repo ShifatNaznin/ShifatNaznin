@@ -1,5 +1,6 @@
 ### Hello, I'm Shifat Naznin Nipa  👋
-
+<div>
+<a href="https://github.com/ShifatNaznin">
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 <br />
 <img align="left" alt="Nipa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatNaznin" width="300" height="320" />
@@ -8,7 +9,7 @@
 
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&count_private=true" /> -->
 <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-
+</div>
 <br />
 <br />
 
