@@ -1,9 +1,11 @@
 ### Hello, I'm Shifat Naznin Nipa  👋
 <div>
 <a href="https://github.com/ShifatNaznin">
+<p align="center">
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
 <img align="left" alt="Nipa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatNaznin&theme=merko&langs_count=7" width="360" height="320" />
+</p>
 <br />
 
 
@@ -13,6 +15,7 @@
 <br />
 <br />
 <div> 
+    <p align="center">
 <!-- ### Languages and Tools: -->
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&count_private=true" /> -->
  
@@ -30,6 +33,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</p>
  </div>
 <br />
 <br />
