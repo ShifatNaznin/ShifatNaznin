@@ -6,14 +6,13 @@
 
 <img align="left" alt="Nipa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatNaznin&theme=merko&langs_count=7" width="360" height="320" />
 </p>
-<br />
+
 
 
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&count_private=true" /> -->
 
 </div>
-<br />
-<br />
+
 <div> 
 <p align="center">
 <!-- ### Languages and Tools: -->
@@ -36,5 +35,4 @@
  </div>
 </p>
  </div>
-<br />
-<br />
+
