@@ -15,8 +15,8 @@
 <div> 
 <!-- ### Languages and Tools: -->
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&count_private=true" /> -->
-<br />
- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=merko&include_all_commits=true&count_private=true" width="450"/>
+ 
+ <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=merko&include_all_commits=true&count_private=true" width="450" style="margin: 10px 0px 0px 0px;"/>
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/>
