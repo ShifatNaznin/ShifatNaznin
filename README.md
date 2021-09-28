@@ -8,10 +8,11 @@
 
 
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&count_private=true" /> -->
-<!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /> -->
+<img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 <br />
 <br />
+<div> 
 <!-- ### Languages and Tools: -->
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
@@ -26,5 +27,6 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ </div>
 <br />
 <br />
