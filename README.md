@@ -3,7 +3,7 @@
 <a href="https://github.com/ShifatNaznin">
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
 
-<img align="left" alt="Nipa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatNaznin&langs_count=7" width="360" height="320" />
+<img align="left" alt="Nipa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatNaznin&theme=merko&langs_count=7" width="360" height="320" />
 <br />
 
 
@@ -14,7 +14,7 @@
 <br />
 <div> 
 <!-- ### Languages and Tools: -->
-<!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" /> -->
+<!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&count_private=true" /> -->
 
  <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=merko&include_all_commits=true&count_private=true" />
 
