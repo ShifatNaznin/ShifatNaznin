@@ -29,7 +29,7 @@
  </div>
 <div> 
 <p align="center">
-<img align="left" alt="Nipa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatNaznin&theme=merko&langs_count=7" width="330" height="320" />
+<img align="left" alt="Nipa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatNaznin&theme=merko&langs_count=7" width="270" height="320" />
 <!-- ### Languages and Tools: -->
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&count_private=true" /> -->
  
