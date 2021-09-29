@@ -2,7 +2,7 @@
 <div>
 <a href="https://github.com/ShifatNaznin">
 <p align="center">
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="650" height="320" />
 
 </p>
 
