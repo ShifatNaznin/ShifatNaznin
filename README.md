@@ -2,10 +2,9 @@
 <div>
 <a href="https://github.com/ShifatNaznin">
 <p align="center">
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="650" height="320" />
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="650" height="320" />
 
 </p>
-
 
 
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&count_private=true" /> -->
