@@ -35,7 +35,7 @@
 <!-- ### Languages and Tools: -->
 <!-- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&count_private=true" /> -->
  
- <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=merko&include_all_commits=true&count_private=true" width="450" height="330" style="margin: 10px 0px 0px 0px;"/>
+ <img align="right" alt="Nipa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShifatNaznin&show_icons=true&hide_border=true&theme=merko&include_all_commits=true &count_private=true" width="450" height="330" style="margin: 10px 0px 0px 0px;"/>
 
 </p>
  </div>
