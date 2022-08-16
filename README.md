@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/ShifatNaznin">
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="650" height="320" />
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true"/>
 
 </p>
 
